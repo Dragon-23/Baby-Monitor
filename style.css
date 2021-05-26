@@ -1,0 +1,25 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status, #number-of-objects-detected
+{
+font-size: 18px;
+}
+
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+
+canvas
+{
+    border: 10px  cyan solid;
+    border-radius: 25px;
+    margin-top: 60px;
+}
